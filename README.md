@@ -24,4 +24,6 @@ Since there is only 4 inputs, the input would have to come in a 4 digit binary f
 
 ## Links and Snapshots
 https://www.tinkercad.com/things/2LKZ9qwZ5pH-copy-of-r3-original/editel?tenant=circuits
+
+
 ![Tinkercad Snapshot](https://github.com/Okay-E1/R3-SoftwareTask1-IwanRahman/blob/main/Copy%20of%20R3%20ORIGINAL.png)
