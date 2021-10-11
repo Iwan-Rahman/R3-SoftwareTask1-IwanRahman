@@ -21,3 +21,7 @@ I defined the output pins for the 1st 7-Segment Display, (D0-D3) and the 2nd 7-s
 
 ### 7-Segment Decoder
 Since there is only 4 inputs, the input would have to come in a 4 digit binary format that would then be converted to the display number. The function digitalWrite is used to determine the output, "HIGH" equaling to 1 and "Low" equaling to 0.   
+
+## Links and Snapshots
+https://www.tinkercad.com/things/2LKZ9qwZ5pH-copy-of-r3-original/editel?tenant=circuits
+
